@@ -15,7 +15,7 @@ saludar("María")
 
 # Esta función le corresponde a: andres
 def contar_hasta(n):
-    for i in range(n):
+    for i in range(m):
         print(i)
 
 contar_hasta(5)  # Esperamos: 1, 2, 3, 4, 5
