@@ -7,7 +7,7 @@ print(suma(3, 5))  # Debería imprimir 8
 
 
 # Esta función le corresponde a: daniel
-def saludar(nombre)
+def saludar(nombre):
     print("Hola, " + nombre)
 
 saludar("María")
