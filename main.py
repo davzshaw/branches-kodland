@@ -21,6 +21,15 @@ def contar_hasta(n):
 contar_hasta(5)  # Esperamos: 1, 2, 3, 4, 5
 
 
+import tiempo
+
+def count(segundos)
+count = 0
+if count =< segundos:
+    print (i count= segundos)
+time.sleep(1)
+count =+1
+
 # Esta función le corresponde a: glen
 def mensaje():
     print("Hola muno")  # Error: falta una letra
