@@ -1,7 +1,7 @@
 # Esta función le corresponde a: nicolai
-def suma(a, b):
-    # TODO: implementar la suma
-    pass
+def suma(a,b)
+    result= int(a+b)
+    return result    
 
 print(suma(3, 5))  # Debería imprimir 8
 
