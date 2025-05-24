@@ -22,6 +22,6 @@ contar_hasta(5)  # Esperamos: 1, 2, 3, 4, 5
 
 # Esta función le corresponde a: glen
 def mensaje():
-    print("Hola muno")  # Error: falta una letra
+    print("Hola mundo")  # Error: falta una letra
 
 mensaje()
